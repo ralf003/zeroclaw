@@ -50,6 +50,7 @@ Last refreshed: **February 18, 2026**.
 - [troubleshooting.md](troubleshooting.md)
 - [network-deployment.md](network-deployment.md)
 - [mattermost-setup.md](mattermost-setup.md)
+- [commit-stats.md](commit-stats.md)
 
 ### 4) Security Design & Proposals
 
